@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Money
+comment0.text=\r\nHaley\ Sanchez\r\n
+comment1.params=moneyType\ val
+comment1.target=Money(java.lang.String,\ double)
+comment2.params=obj
+comment2.target=int\ compareTo(java.lang.Object)
+comment3.params=obj
+comment3.target=boolean\ equals(java.lang.Object)
+comment4.params=
+comment4.target=double\ getValue()
+comment5.params=
+comment5.target=java.lang.String\ getType()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
